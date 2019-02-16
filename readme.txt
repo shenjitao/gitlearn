@@ -3,5 +3,5 @@ ok -- insert
 line 3: hello world !
 line-4:
 line-5:
-creating a new branch so simple...
+creating a new branch is so simple...
 new new
