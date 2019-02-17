@@ -1,3 +1,5 @@
 # this is the first git file.
 ## 常用网址
-### [GitHub](https://github.com)
+> [GitHub](https://github.com)
+> [gitee](https://gitee.com)
+
